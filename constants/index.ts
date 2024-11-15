@@ -37,7 +37,7 @@ export const Skill_data = [
     },
     {
       skill_name: "Numpy",
-      Image: "/Numpy.png",
+      Image: "/numpy.png",
       width: 80,
       height: 80,
     },
