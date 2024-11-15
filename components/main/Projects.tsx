@@ -12,7 +12,7 @@ const Projects = () => {
       </h1>
       <div className="h-full w-full flex flex-col md:flex-row gap-10 px-10">
       <ProjectCard
-          src="/echa-chem-ss.png"
+          src="/echachemss.webp"
           title="SDS Project"
           description="Developed a program using Python, BeautifulSoup, and Selenium to aggregate data from the ECHA website for
 creating Material Safety Data Sheets, ensuring safe battery transportation and mitigating risks, including potential
@@ -32,7 +32,7 @@ efficiency by 70%.
           githubUrl="https://github.com/AnushaSingh12"
         />
         <ProjectCard
-          src="/heartdisease.jfif"
+          src="/heartdisease.webp"
           title="Heart Disease Prediction System"
           description="Built a model that predicts cardiovascular disease by analyzing patient medical history.
           Utilized a dataset containing 14 attributes related to heart disease risk factors.
@@ -41,7 +41,7 @@ efficiency by 70%.
           githubUrl="https://github.com/AnushaSingh12"
         />
         <ProjectCard
-          src="/SpaceWebsite.png"
+          src="/portfolioss.webp"
           title="Portfolio"
           description="Developed a dynamic web-based portfolio platform using HTML, CSS, JavaScript, React, and Material UI. The platform showcases my skills, projects, and experience in a sleek, modern design. Using React for efficient rendering and Material UI for beautiful and responsive components, the website delivers a smooth user experience across all devices."
           githubUrl="https://github.com/AnushaSingh12"
