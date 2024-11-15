@@ -81,16 +81,16 @@ export const Skill_data = [
   
   ];
   
-  export const Socials = [
+export const Socials = [
     {
       name: "Instagram",
       src: "/instagram.svg",
-      url: "https://instagram.com"
+      url: "https://www.instagram.com/anusha_singh.rajput"
     },
     {
       name:"LinkedIn",
       src: "/linkedin-svgrepo-com.svg",
-      url: "https://linkedin.com",
+      url: "https://www.linkedin.com/in/anusha-j-singh-56121b2b7",
     },
     {
       name: "Facebook",
