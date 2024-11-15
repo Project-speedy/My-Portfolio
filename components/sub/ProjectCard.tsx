@@ -15,8 +15,8 @@ const ProjectCard = ({ src, title, description, githubUrl }: Props) => {
         <Image
           src={src}
           alt={title}
-          layout="fill" // Automatically fills the container
-          objectFit="cover" // Ensures the image covers the container area
+          fill // Automatically fills the container
+          style={{objectFit:"cover"}} // Ensures the image covers the container area
           className="rounded-t-lg"
         />
       </div>
@@ -40,6 +40,3 @@ const ProjectCard = ({ src, title, description, githubUrl }: Props) => {
 };
 
 export default ProjectCard;
-
-
-
